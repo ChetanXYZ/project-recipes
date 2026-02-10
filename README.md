@@ -3,14 +3,14 @@
 <h2>Hi, I'm Chetan</h1>
 
 <p>This is a basic recipes project from the Odin Project: Recipes page<p>
-<p>Through this project I wish to demonstrate a variety of skill learned from the HTML section of Odin Foundations Course</p>
-<p>List of skills learned over the course of working on the HTML section of Odin Foundations</p>
+<p>Through this project I wish to demonstrate a variety of skills learned from the HTML section of Odin Foundations Course</p>
+<p>List of skills learned</p>
 
 <h3>Git skills</h3>
 <ol>
 <li>Cloning git repositories</li>
-<li>Using basic git commands from the CLI which includes git clone, git add, git commit -m and git commit, git log,</li>
-<li>Writing easy to understand and track commit messages</li>
+<li>Using basic git from the Linux shell examples: git clone, git add, git commit -m and git commit, git log,</li>
+<li>Writing commit messages that are easy to track and understand</li>
 </ol>
 
 <h3>HTML Skills</h3>
